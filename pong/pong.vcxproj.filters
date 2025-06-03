@@ -42,4 +42,57 @@
     </Media>
     <Media Include="..\Debug\music.mp3" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="drawer.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mouse.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainWindow.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainWorld.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Constellation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Navigation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogStruct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DodgeEnemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StatusGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DiologTEXT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ConverterSVGto3D.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="point3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
